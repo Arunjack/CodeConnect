@@ -1,0 +1,30 @@
+PODS:
+  - AJCoreComponent (0.1.0):
+    - SnapKit
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - "AJCoreComponent (from `git@github.com:Arunjack/AJCoreComponent.git`, branch `master`)"
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  AJCoreComponent:
+    :branch: master
+    :git: "git@github.com:Arunjack/AJCoreComponent.git"
+
+CHECKOUT OPTIONS:
+  AJCoreComponent:
+    :commit: a0166e47d7fd49947279192d7fb9af3368f3646a
+    :git: "git@github.com:Arunjack/AJCoreComponent.git"
+
+SPEC CHECKSUMS:
+  AJCoreComponent: 9359ed9e12de02e24b2fe3e65e6386d26495627b
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: dc026282d243ea49adedbc1e9cb113511c7c202c
+
+COCOAPODS: 1.10.1
